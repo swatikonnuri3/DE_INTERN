@@ -1,3 +1,4 @@
 *.log
 secret.txt
 venv/
+localrepo/
