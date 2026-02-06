@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 .env
+=======
+*.log
+secret.txt
+venv/
+localrepo/
+>>>>>>> 9233c7e8e24cd1fe4ccd1fb4bd74f2a66f188ca6

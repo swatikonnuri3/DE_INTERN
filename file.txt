@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am tag hello
+=======
+hello git 
+>>>>>>> 9233c7e8e24cd1fe4ccd1fb4bd74f2a66f188ca6
